@@ -3,7 +3,7 @@ title: "Speeding up the AIFV-2 dynamic programs by two orders of magnitude using
 collection: publications
 permalink: 
 excerpt: 
-date: 2020-05-20
+date: 2020-01-20
 venue: "Theoretical Computer Science Journal"
 submitted:
 paperurl: 
