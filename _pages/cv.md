@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-See CV here. 
+[See CV here.](https://farouky.github.io/files/CV%20(21).pdf) 
