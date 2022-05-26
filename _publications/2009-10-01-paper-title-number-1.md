@@ -7,6 +7,6 @@ date: 2022-05-20
 venue: "NeurIPS"
 submitted: "NeurIPS"
 paperurl: 
-citation: Co-authored with Chandra Chekuri and Kent Quanrud. 
+citation: Chandra Chekuri and Kent Quanrud. 
 Test: Hello
 ---
