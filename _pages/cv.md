@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+See CV here. 
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Hong Kong University of Science and Technology. Double major in Math and Computer Science. 2015-2019. 
+* Ph.D in Computer Science, UIUC, 2026 (expected)
 
 Work experience
 ======
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
