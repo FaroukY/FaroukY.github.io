@@ -4,7 +4,8 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2022-05-20
-venue: 'Submitted to NeurIPS'
+venue:
+submitted_to: 'NeurIPS 2022'
 paperurl: 
 citation: Co-authored with Chandra Chekuri and Kent Quanrud. 
 Test: Hello
