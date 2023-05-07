@@ -10,6 +10,6 @@ redirect_from:
 
 Hi, my name is Farouk! I am a second year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). I enjoy thinking about recreational math and combinatorial optimization problems. In my free time, I enjoy creating [Youtube](https://www.youtube.com/watch?v=XqTBrQYYUcc&ab_channel=ForAllEpsilon) videos about problem solving. 
 
-I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/)
+I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
 Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index arbitrage team for 2 years. In Summer 2022, I interned at Google in the NYC office. 
