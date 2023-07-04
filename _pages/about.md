@@ -31,5 +31,6 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index
 
 | Name             | Year   | With |  Paper                                                              |
 | --------         | ------ | ------| ------------------------------------------------------------ |
+| Fishing For Better Constants: The Prophet Secretary Via Poissonization | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2022 | Sariel Har-Peled  | [pdf](https://arxiv.org/abs/2208.03829)                          |
 | Prophets and Oracles    | 2022   | Vasilis Livanos and Sariel Har-Peled   |                        |
