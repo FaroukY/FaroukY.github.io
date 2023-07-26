@@ -34,3 +34,13 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index
 | Fishing For Better Constants: The Prophet Secretary Via Poissonization | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2022 | Sariel Har-Peled  | [pdf](https://arxiv.org/abs/2208.03829)                          |
 | Prophets and Oracles    | 2022   | Vasilis Livanos and Sariel Har-Peled   |                        |
+
+## Professional Service
+
+I have officially reviewed papers for the following conferences and journals:
+
+- NeurIPS 2023
+- SODA 2024
+- IEEE Transactions on Information Theory
+- IEEE Transactions on Communications
+
