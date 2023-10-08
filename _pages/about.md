@@ -18,7 +18,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index
 
 | Name             | Year   | Venue | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
-| Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [pdf](https://arxiv.org/abs/2208.03829)   |
+| Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2023 | SOSA 2024 | Sariel Har-Peled  | [pdf](https://arxiv.org/abs/2208.03829)   |
 | Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | ESA 2023 | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
 | A Polynomial Time Algorithm for Constructing Optimal Binary AIFV-2 Codes    | 2023 | IEEE Transactions on Information Theory | Mordecai Golin    | [paper](https://ieeexplore.ieee.org/document/10155474)                          |
 | Faster and Scalable Algorithms for Densest Subgraph and Decomposition    | 2022 | NeurIPS 2022 | Kent Quanrud and Chandra Chekuri    | [paper](https://openreview.net/forum?id=QMrs1nggaL)                           |
