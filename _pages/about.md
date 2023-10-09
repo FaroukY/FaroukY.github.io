@@ -45,7 +45,7 @@ I have officially reviewed papers for the following conferences and journals:
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Communications
 
-## Miscalaneous
+## Miscellaneous
 
 - In my free time (which recently has been rare), I enjoy creating [Youtube](https://www.youtube.com/watch?v=XqTBrQYYUcc&ab_channel=ForAllEpsilon) videos about problem solving.
 - I enjoy playing Chess and Poker.
