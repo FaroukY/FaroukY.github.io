@@ -12,7 +12,7 @@ Hi, my name is Farouk! I am a third year PhD student at the University of Illino
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
-Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index arbitrage team for 2 years. In Summer 2022, I interned at Google in the NYC office. 
+Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index arbitrage team for 2 years. In Summer 2022, I interned at Google as a PhD SWE. 
 
 ## Publications
 
