@@ -12,7 +12,7 @@ Hi, my name is Farouk! I am a third year PhD student at the University of Illino
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
-Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index arbitrage team for 2 years. In Summer 2022, I interned at Google as a PhD SWE. 
+Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. 
 
 ## Publications
 
@@ -32,18 +32,14 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader in the index
 
 | Name             | Year   | With |  Paper                                                              |
 | --------         | ------ | ------| ------------------------------------------------------------ |
-| Fishing For Better Constants: The Prophet Secretary Via Poissonization | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
-| Prophets and Oracles    | 2022   | Vasilis Livanos and Sariel Har-Peled   |                        |
+| New Prophet Inequalities via Poissonization and Sharding. <br><br> Originally titled "Fishing For Better Constants: The Prophet Secretary Via Poissonization", the new expanded paper generalizes the technique in the older one and applies it to numerous prophet inequalities in the literature (not only the prophet secretary) to improve numerous lower/upper bounds.   | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
+| Oracle-Augmented Prophet Inequalities    | 2022   | Vasilis Livanos and Sariel Har-Peled   |      pdf available at request.                  |
 
 ## Professional Service
-
 I have officially reviewed papers for the following conferences and journals:
 
-- ICLR 2024
-- NeurIPS 2023
-- SODA 2024
-- IEEE Transactions on Information Theory
-- IEEE Transactions on Communications
+- ICML 2024, ISIT2024, SOCG 2024, ICLR 2024, NeurIPS 2023, SODA 2024
+- IEEE Transactions on Information Theory, IEEE Transactions on Communications
 
 ## Misc.
 
