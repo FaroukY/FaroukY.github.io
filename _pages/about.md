@@ -18,7 +18,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year   | Venue | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
-| Oracle-Augmented Prophet Inequalities    | 2024 | (To appear at) ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  |    |
+| Oracle-Augmented Prophet Inequalities    | 2024 | ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
 | Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | ESA 2023 | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
 | A Polynomial Time Algorithm for Constructing Optimal Binary AIFV-2 Codes    | 2023 | IEEE Transactions on Information Theory | Mordecai Golin    | [paper](https://ieeexplore.ieee.org/document/10155474)                          |
@@ -34,6 +34,17 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Name             | Year   | With |  Paper                                                              |
 | --------         | ------ | ------| ------------------------------------------------------------ |
 | New Prophet Inequalities via Poissonization and Sharding. <br><br> Originally titled "Fishing For Better Constants: The Prophet Secretary Via Poissonization", the new expanded paper generalizes the technique in the older one and applies it to numerous prophet inequalities in the literature (not only the prophet secretary) to improve numerous lower/upper bounds.   | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
+
+## Teaching
+I have TA'd the following courses:
+
+1) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation 🔥
+2) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms 🌑
+
+🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)
+
+🌑 = No Teaching Evaluation survey conducted. 
+
 
 ## Professional Service
 I have officially reviewed papers for the following conferences and journals:
