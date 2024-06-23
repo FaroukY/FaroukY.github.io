@@ -18,6 +18,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year   | Venue | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
+| Shortest Path Separators in Unit Disk Graphs | 2024 | ESA 2024 (To appear) | David Zheng, Zhengcheng Huang | 
 | Oracle-Augmented Prophet Inequalities    | 2024 | ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
 | Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | ESA 2023 | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
