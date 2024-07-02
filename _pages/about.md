@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Farouk! I am a third year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). I have a broad research interest ranging from computational geometry, optimal stopping theory, scalable graph theory, and coding theory. I also enjoy thinking about recreational math problems. 
+Hi, my name is Farouk! I am a fourth year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). I have a broad research interest ranging from computational geometry, optimal stopping theory, scalable graph theory, and coding theory. I also enjoy thinking about recreational math problems. 
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
