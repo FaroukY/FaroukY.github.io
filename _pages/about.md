@@ -51,8 +51,11 @@ I have TA'd the following courses:
 ## Professional Service
 I have officially reviewed papers for the following conferences and journals:
 
-- SODA2025, FOCS2024, ICML 2024, ISIT2024, SOCG 2024, ICLR 2024, NeurIPS 2023, SODA 2024
+- AAAI 2025, SODA2025, FOCS2024, ICML 2024, ISIT2024, SOCG 2024, ICLR 2024, NeurIPS 2023, SODA 2024
 - IEEE Transactions on Information Theory, IEEE Transactions on Communications
+
+I have served on the Program Commitee of the following conferences:
+- AAAI 2025. 
 
 ## Misc.
 
