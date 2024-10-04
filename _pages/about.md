@@ -18,6 +18,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year   | Venue | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
+| New Prophet Inequalities via Poissonization and Sharding. | 2025 | SODA 2025 (to appear) | | [paper](http://arxiv.org/abs/2307.00971) |
 | Shortest Path Separators in Unit Disk Graphs | 2024 | ESA 2024 | Da Wei (David) Zheng, Zhengcheng Huang | [paper](https://arxiv.org/pdf/2407.15980) |
 | Oracle-Augmented Prophet Inequalities    | 2024 | ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
@@ -28,13 +29,6 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Speeding up the AIFV-2 dynamic programs by two orders of magnitude using Range Minimum Queries    | 2020 | Theoretical Computer Science | Mordecai Golin    | [paper](https://arxiv.org/abs/2002.09885)                             |
 | Polynomial Time Algorithms for Constructing Optimal AIFV Codes    | 2019 | DCC 2019 | Mordecai Golin    | [paper](https://arxiv.org/abs/2001.11170)                             |
 
-
-
-## Manuscripts
-
-| Name             | Year   | With |  Paper                                                              |
-| --------         | ------ | ------| ------------------------------------------------------------ |
-| New Prophet Inequalities via Poissonization and Sharding. <br><br> Originally titled "Fishing For Better Constants: The Prophet Secretary Via Poissonization", the new expanded paper generalizes the technique in the older one and applies it to numerous prophet inequalities in the literature (not only the prophet secretary) to improve numerous lower/upper bounds.   | 2023 | | [pdf](http://arxiv.org/abs/2307.00971) | 
 
 ## Teaching
 I have TA'd the following courses:
