@@ -33,13 +33,13 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 ## Teaching
 I have TA'd the following courses:
 
-1) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation 🔥
+1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation
+  
+2) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation 🔥
    
-2) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms 🌑
+3) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms
 
-🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)
-
-🌑 = No Teaching Evaluation survey conducted. 
+<sub> 🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)  </sub>
 
 
 ## Professional Service
