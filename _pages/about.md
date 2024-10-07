@@ -39,7 +39,7 @@ I have TA'd the following courses:
    
 3) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms
 
-<sub> 🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)  </sub>
+<sub> 🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). No student evaluation for CS473.  </sub>
 
 
 ## Professional Service
