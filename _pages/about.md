@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Farouk! I am a fourth year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research interests span computational geometry, optimal stopping theory, scalable graph theory, and coding theory, with a focus on mixing theoretical insights with practical scalable algorithmic solutions. I also enjoy thinking about recreational math problems. 
+Hi, my name is Farouk! I am a fourth year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research interests span computational geometry, optimal stopping theory, scalable graph theory, and coding theory, with a focus on mixing theoretical insights with practical scalable algorithmic solutions. 
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
-Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. 
+Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I will intern at Two Sigma as a Quantitative Researcher. 
 
 ## Publications
 
 | Name             | Year   | Venue | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
-| New Prophet Inequalities via Poissonization and Sharding. | 2025 | SODA 2025 (to appear) | | [paper](http://arxiv.org/abs/2307.00971) |
+| New Prophet Inequalities via Poissonization and Sharding. | 2025 | SODA 2025 | | [paper](http://arxiv.org/abs/2307.00971) |
 | Shortest Path Separators in Unit Disk Graphs | 2024 | ESA 2024 | Da Wei (David) Zheng, Zhengcheng Huang | [paper](https://arxiv.org/pdf/2407.15980) |
 | Oracle-Augmented Prophet Inequalities    | 2024 | ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
 | Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
