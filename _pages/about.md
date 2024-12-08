@@ -16,18 +16,18 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 ## Publications
 
-| Name             | Year   | Venue | With |     Paper                                                         |
+| Name             | Year   | Where | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
-| New Prophet Inequalities via Poissonization and Sharding. | 2025 | SODA 2025 | | [paper](http://arxiv.org/abs/2307.00971) |
-| Shortest Path Separators in Unit Disk Graphs | 2024 | ESA 2024 | Da Wei (David) Zheng, Zhengcheng Huang | [paper](https://arxiv.org/pdf/2407.15980) |
-| Oracle-Augmented Prophet Inequalities    | 2024 | ICALP 2024 | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
-| Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SOSA 2024 | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
-| Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | ESA 2023 | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
+| New Prophet Inequalities via Poissonization and Sharding. | 2025 | ACM-SIAM Symposium on Discrete Algorithms (SODA25) | | [paper](http://arxiv.org/abs/2307.00971) |
+| Shortest Path Separators in Unit Disk Graphs | 2024 | The European Symposium on Algorithms (ESA 2024) | Da Wei (David) Zheng, Zhengcheng Huang | [paper](https://arxiv.org/pdf/2407.15980) |
+| Oracle-Augmented Prophet Inequalities    | 2024 | International Colloquium on Automata, Languages and Programming (ICALP 2024) | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
+| Revisiting Random Points: Combinatorial Complexity and Algorithms    | 2024 | SIAM Symposium on Simplicity of Algorithms (SOSA 2024) | Sariel Har-Peled  | [paper](https://arxiv.org/abs/2208.03829)   |
+| Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | 2023 European Symposium on Algorithms (ESA 2023) | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
 | A Polynomial Time Algorithm for Constructing Optimal Binary AIFV-2 Codes    | 2023 | IEEE Transactions on Information Theory | Mordecai Golin    | [paper](https://ieeexplore.ieee.org/document/10155474)                          |
-| Faster and Scalable Algorithms for Densest Subgraph and Decomposition    | 2022 | NeurIPS 2022 | Kent Quanrud and Chandra Chekuri    | [paper](https://openreview.net/forum?id=QMrs1nggaL)                           |
-| KFC: A Scalable Approximation Algorithm for k-center Fair Clustering    | 2020 | NeurIPS 2020 | Sharon Lam    | [paper](https://proceedings.neurips.cc/paper/2020/file/a6d259bfbfa2062843ef543e21d7ec8e-Paper.pdf)                             |
+| Faster and Scalable Algorithms for Densest Subgraph and Decomposition    | 2022 | 2022 Conference on Neural Information Processing Systems (NeurIPS 2022) | Kent Quanrud and Chandra Chekuri    | [paper](https://openreview.net/forum?id=QMrs1nggaL)                           |
+| KFC: A Scalable Approximation Algorithm for k-center Fair Clustering    | 2020 | 2020 Conference on Neural Information Processing Systems (NeurIPS 2020) | Sharon Lam    | [paper](https://proceedings.neurips.cc/paper/2020/file/a6d259bfbfa2062843ef543e21d7ec8e-Paper.pdf)                             |
 | Speeding up the AIFV-2 dynamic programs by two orders of magnitude using Range Minimum Queries    | 2020 | Theoretical Computer Science | Mordecai Golin    | [paper](https://arxiv.org/abs/2002.09885)                             |
-| Polynomial Time Algorithms for Constructing Optimal AIFV Codes    | 2019 | DCC 2019 | Mordecai Golin    | [paper](https://arxiv.org/abs/2001.11170)                             |
+| Polynomial Time Algorithms for Constructing Optimal AIFV Codes    | 2019 | 2019 Data Compression Conference (DCC 2019) | Mordecai Golin    | [paper](https://arxiv.org/abs/2001.11170)                             |
 
 
 ## Teaching
