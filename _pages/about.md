@@ -33,7 +33,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 ## Teaching
 I have TA'd the following courses:
 
-1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation
+1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation 🔥
   
 2) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation 🔥
    
