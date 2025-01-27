@@ -30,6 +30,13 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Polynomial Time Algorithms for Constructing Optimal AIFV Codes    | 2019 | 2019 Data Compression Conference (DCC 2019) | Mordecai Golin    | [paper](https://arxiv.org/abs/2001.11170)                             |
 
 
+## Manuscripts
+
+| Name             | Year    | With |     Paper                                                         |
+| --------         | ------ | --------|  ------------------------------------------------------------ |
+| ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam | | [paper](http://arxiv.org/abs/2307.00971) |
+
+
 ## Teaching
 I have TA'd the following courses:
 
