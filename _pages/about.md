@@ -34,7 +34,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year    | With |     Paper                                                         |
 | --------         | ------ | --------|  ------------------------------------------------------------ |
-| ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam | | [paper](http://arxiv.org/abs/2307.00971) |
+| ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam | [paper]() |
 
 
 ## Teaching
