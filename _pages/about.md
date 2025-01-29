@@ -25,7 +25,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing    | 2023 | 2023 European Symposium on Algorithms (ESA 2023) | Kent Quanrud and Chandra Chekuri    | [paper](https://arxiv.org/abs/2305.02987)                             |
 | A Polynomial Time Algorithm for Constructing Optimal Binary AIFV-2 Codes    | 2023 | IEEE Transactions on Information Theory | Mordecai Golin    | [paper](https://ieeexplore.ieee.org/document/10155474)                          |
 | Faster and Scalable Algorithms for Densest Subgraph and Decomposition    | 2022 | 2022 Conference on Neural Information Processing Systems (NeurIPS 2022) | Kent Quanrud and Chandra Chekuri    | [paper](https://openreview.net/forum?id=QMrs1nggaL)                           |
-| KFC: A Scalable Approximation Algorithm for k-center Fair Clustering    | 2020 | 2020 Conference on Neural Information Processing Systems (NeurIPS 2020) | Sharon Lam    | [paper](https://proceedings.neurips.cc/paper/2020/file/a6d259bfbfa2062843ef543e21d7ec8e-Paper.pdf)                             |
+| KFC: A Scalable Approximation Algorithm for k-center Fair Clustering    | 2020 | 2020 Conference on Neural Information Processing Systems (NeurIPS 2020) | Sharon Lam (aka my wife)   | [paper](https://proceedings.neurips.cc/paper/2020/file/a6d259bfbfa2062843ef543e21d7ec8e-Paper.pdf)                             |
 | Speeding up the AIFV-2 dynamic programs by two orders of magnitude using Range Minimum Queries    | 2020 | Theoretical Computer Science | Mordecai Golin    | [paper](https://arxiv.org/abs/2002.09885)                             |
 | Polynomial Time Algorithms for Constructing Optimal AIFV Codes    | 2019 | 2019 Data Compression Conference (DCC 2019) | Mordecai Golin    | [paper](https://arxiv.org/abs/2001.11170)                             |
 
@@ -34,7 +34,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year    | With |     Paper                                                         |
 | --------         | ------ | --------|  ------------------------------------------------------------ |
-| ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam | [paper](https://arxiv.org/abs/2501.16130) |
+| ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam (aka my wife) | [paper](https://arxiv.org/abs/2501.16130) |
 
 
 ## Teaching
