@@ -40,14 +40,11 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 ## Teaching
 I have TA'd the following courses:
 
-1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation 🔥
+1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation (🔥🔥🔥: [Outstanding Teaching Assistant Award!!](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants))
   
-2) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation 🔥
+2) Fall 2023: [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/staff.html) Introduction to Algorithms & Models of Computation (🔥 On the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent).)
    
-3) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms
-
-<sub> 🔥 = Included on the [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). No student evaluation for CS473.  </sub>
-
+3) Fall 2022: [CS 473](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms (No student evaluation for CS473)
 
 ## Professional Service
 I have officially reviewed papers for the following conferences and journals:
