@@ -35,6 +35,9 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Name             | Year    | With |     Paper                                                         |
 | --------         | ------ | --------|  ------------------------------------------------------------ |
 | ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam (aka my wife) | [paper](GE_Paper.pdf) |
+| Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems. | 2025 | Chandra Chekuri and Yousef Yassin |  |
+
+
 
 
 ## Teaching
