@@ -12,7 +12,7 @@ Hi, my name is Farouk! I am a fourth year PhD student at the University of Illin
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
-Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I will intern at Two Sigma as a Quantitative Researcher. 
+Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I interned at Two Sigma as a Quantitative Researcher. 
 
 ## Publications
 
