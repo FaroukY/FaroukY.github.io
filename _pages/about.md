@@ -34,6 +34,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year    | With |     Paper                                                         |
 | --------         | ------ | --------|  ------------------------------------------------------------ |
+| Dense Subgraph Clustering and a new Cluster Ensemble Method. | 2025 | The-Anh Vu-Le, Joao Alfredo Cardoso Lamy, Tomas Alessi, Ian Chen, Minhyuk Park, George Chacko, and Tandy Warnow | (submitted) |
 | ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam (aka my wife) | [paper](GE_Paper.pdf) |
 | Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems. | 2025 | Chandra Chekuri and Yousef Yassin | [paper](https://www.arxiv.org/abs/2505.17443)  |
 
