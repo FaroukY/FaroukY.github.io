@@ -18,6 +18,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 | Name             | Year   | Where | With |     Paper                                                         |
 | --------         | ------ | ------| --------|  ------------------------------------------------------------ |
+| Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems. | 2025 | Conference on Neural Information Processing Systems (NeurIPS 2025) (🔥 Spotlight 🔥) | Chandra Chekuri and Yousef Yassin | [paper](https://www.arxiv.org/abs/2505.17443)  |
 | New Prophet Inequalities via Poissonization and Sharding. | 2025 | ACM-SIAM Symposium on Discrete Algorithms (SODA25) | | [paper](http://arxiv.org/abs/2307.00971) |
 | Shortest Path Separators in Unit Disk Graphs | 2024 | The European Symposium on Algorithms (ESA 2024) | Da Wei (David) Zheng, Zhengcheng Huang | [paper](https://arxiv.org/pdf/2407.15980) |
 | Oracle-Augmented Prophet Inequalities    | 2024 | International Colloquium on Automata, Languages and Programming (ICALP 2024) | Sariel Har-Peled, Vasilis Livanos  | [paper](https://arxiv.org/abs/2404.11853)    |
@@ -36,7 +37,6 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | --------         | ------ | --------|  ------------------------------------------------------------ |
 | Dense Subgraph Clustering and a new Cluster Ensemble Method. | 2025 | The-Anh Vu-Le, Joao Alfredo Cardoso Lamy, Tomas Alessi, Ian Chen, Minhyuk Park, George Chacko, and Tandy Warnow | (submitted) |
 | ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam (aka my wife) | [paper](GE_Paper.pdf) |
-| Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems. | 2025 | Chandra Chekuri and Yousef Yassin | [paper](https://www.arxiv.org/abs/2505.17443)  |
 
 
 
