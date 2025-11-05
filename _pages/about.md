@@ -14,6 +14,13 @@ I did my undergrad in The Hong Kong University of Science and Technology where I
 
 Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I interned at Two Sigma as a Quantitative Researcher. 
 
+<p style="color:red; font-weight:bold;">
+I will be teaching CS498: Algorithmic Engineering in Spring 2026. 
+If you have any questions about the course, feel free to email me. 
+More details to come soon!
+</p>
+
+
 ## Publications
 
 | Name             | Year   | Where | With |     Paper                                                         |
@@ -42,6 +49,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 
 
 ## Teaching
+
 I have TA'd the following courses:
 
 1) Fall 2024: Head TA for [CS 374](https://courses.grainger.illinois.edu/cs374al1/fa2024/info/staff.html) Introduction to Algorithms & Models of Computation (🔥🔥🔥: [Outstanding Teaching Assistant Award!!](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants))
