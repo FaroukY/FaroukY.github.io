@@ -14,11 +14,9 @@ I did my undergrad in The Hong Kong University of Science and Technology where I
 
 Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I interned at Two Sigma as a Quantitative Researcher. 
 
-<p style="color:red; font-weight:bold;">
-I will be teaching CS498: Algorithmic Engineering in Spring 2026. 
+> I will be teaching CS498: Algorithmic Engineering in Spring 2026. 
 If you have any questions about the course, feel free to email me. 
-The course is still under development, but you can track main topics [here](https://farouky.github.io/cs498ae/)
-</p>
+The course is still under active development, but you can track main topics [here](https://farouky.github.io/cs498ae/)
 
 
 ## Publications
