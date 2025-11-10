@@ -17,7 +17,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 <p style="color:red; font-weight:bold;">
 I will be teaching CS498: Algorithmic Engineering in Spring 2026. 
 If you have any questions about the course, feel free to email me. 
-More details to come soon!
+The course is still under development, but you can track main topics [here](https://farouky.github.io/cs498ae/)
 </p>
 
 
