@@ -67,7 +67,6 @@ I have served on the Program Commitee of the following conferences:
 
 ## Misc.
 
-- In my free time (which recently has been rare), I enjoy creating [Youtube](https://www.youtube.com/watch?v=XqTBrQYYUcc&ab_channel=ForAllEpsilon) videos about problem solving.
 - I enjoy playing Chess and Poker.
 - My endlessly supportive [wife](https://www.linkedin.com/in/sharon-lam-hslhk/).
 - I’m originally from Egypt. Please don’t make assumptions about my political views or religious beliefs based on that. If you’re genuinely curious about my perspective on something, just ask. I’ve added this note because it’s been an issue more often than I’d expect.
