@@ -5,8 +5,6 @@ permalink: /cs498ae_project/
 author_profile: false
 ---
 
-# CS498: Algorithmic Engineering. Final Project (30%)
-
 ## Overview
 
 The final project is your chance to go deep. Pick a topic connected to what we have covered in class (or will cover) -- LP/IP solvers, convex optimization, metaheuristics, SAT/SMT, or Machine Learning Systems -- and either **implement**, **benchmark**, or **extend** something substantial. The goal is to practice the engineering side of algorithms: build a system, measure it, compare it to baselines, and write it up clearly.
