@@ -13,7 +13,7 @@ This is an **individual** project.
 
 ## Project Tracks
 
-Choose one of the following four directions.
+Choose one of the following three directions.
 
 ### Track A: Reproduce a Research Paper (and potentially extend it).
 
