@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "CS498: Algorithmic Engineering. Final Project (30%)"
+permalink: /cs498ae_project/
+author_profile: false
+---
+
 # CS498: Algorithmic Engineering. Final Project (30%)
 
 ## Overview
