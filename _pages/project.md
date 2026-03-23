@@ -23,8 +23,7 @@ Pick a paper from a venue like ALENEX, SEA, Mathematical Programming Computation
 
 If you find an existing open-source implementation of the paper's algorithm, reproduce (some) of its main results, then (optionally) extend it in a meaningful way: new datasets, an algorithmic tweak, new baseline/heuristic to compare against, a different solver backend, or a head-to-head comparison the original authors did not include.
 
-For example, one idea of a project is you can try implementing the algorithm from [https://dl.acm.org/doi/10.1145/3292500.3330846](this paper), and benchmarking it against vanilla KNN. Adding new test instances, and measuring more than just the speed (for example memory consumption of different algorithms, and various heuristics you can think of). 
-
+For example, one idea of a project is you can try implementing the algorithm from [this paper](https://dl.acm.org/doi/10.1145/3292500.3330846), and benchmarking it against vanilla KNN. Adding new test instances, and measuring more than just the speed (for example memory consumption of different algorithms, and various heuristics you can think of). 
 
 ### Track B: Deep Dive into a Course Topic
 
