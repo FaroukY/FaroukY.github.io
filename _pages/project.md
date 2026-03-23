@@ -15,11 +15,16 @@ This is an **individual** project.
 
 Choose one of the following four directions.
 
-### Track A: Implement a Research Paper
+### Track A: Reproduce a Research Paper (and potentially extend it).
 
-Pick a paper from a venue like ALENEX, SEA, Mathematical Programming Computation, INFORMS Journal on Computing, NeurIPS, ICML, or similar. Implement the main algorithm, implement one or more baselines, and compare performance (speed, solution quality, or both) on benchmark instances.
+Pick a paper from a venue like ALENEX, SEA, Mathematical Programming Computation, INFORMS Journal on Computing, NeurIPS, ICML, or similar. Reproduce the main algorithm, implement one or more baselines, and compare performance (speed, solution quality, or both) on benchmark instances.
 
-**What we are looking for:** faithful implementation, fair baselines, clear experimental methodology, and honest discussion of results (including when the paper's method does *not* win).
+**What we are looking for:** faithful implementation, fair baselines, clear experimental methodology, and honest discussion of results (including when the paper's method does *not* win). 
+
+If you find an existing open-source implementation of the paper's algorithm, reproduce (some) of its main results, then (optionally) extend it in a meaningful way: new datasets, an algorithmic tweak, new baseline/heuristic to compare against, a different solver backend, or a head-to-head comparison the original authors did not include.
+
+For example, one idea of a project is you can try implementing the algorithm from [https://dl.acm.org/doi/10.1145/3292500.3330846](this paper), and benchmarking it against vanilla KNN. Adding new test instances, and measuring more than just the speed (for example memory consumption of different algorithms, and various heuristics you can think of). 
+
 
 ### Track B: Deep Dive into a Course Topic
 
@@ -31,20 +36,59 @@ Take a topic we covered in class and go deeper. Read recent papers and heuristic
 - **TSP Engineering.** Implement 2-opt/3-opt local search, compare against LKH and Concorde on TSPLIB instances, and study the effect of candidate edge generation.
 - **ML and LLM Engineering.** Solve a problem using ML techniques, or use the LLM component of the course to build something cool. 
 
+One example here of a project is you could write a report surveying the various branching techniques used in modern branch-and-bound solvers, then benchmark them on open-source test instances to see how quickly they converge across different inputs, and optionally analyze which techniques come out on top.
+
 ### Track C: Solve a New Problem
 
 Use one of the methods from class (or a related method) to solve a problem that interests you. Model it, solve it, and compare approaches. Examples:
 
 - Model a real scheduling, routing, or resource allocation problem as an IP and solve it with Gurobi.
-- Encode a puzzle or verification task in SAT/SMT and compare different encodings (Bool vs. Int, different symmetry-breaking strategies).
+- Encode a puzzle or verification task in SAT/SMT (or better create a new puzzle and its solver!) and compare different encodings (Bool vs. Int, different symmetry-breaking strategies).
 - Apply convex optimization or SDP relaxations to a machine learning or signal processing problem.
 - Use metaheuristics (Simulated Annealing, Genetic Algorithms) on a combinatorial problem and benchmark against exact solvers.
 
 **This track is the most open-ended.** The key is having a clear problem, a clear method, and a clear comparison.
 
-### Track D: Reproduce and Extend
+One example I'm personally excited about is writing a solver for Cities: Skylines (a game). My spouse is obsessed with this game, and we've both been curious about what a solver would look like. The combinatorial explosion of the action space makes exact solving virtually impossible, so it would be fascinating to design a heuristic that can actually play the game! Alternatively, you could study a scheduling problem you encounter in real life, similar to what Fleetline does, and write a custom solver for it. It's really up to you!
 
-Find an existing open-source implementation related to our course topics. Reproduce its main results, then extend it in a meaningful way: new datasets, an algorithmic tweak, a different solver backend, or a head-to-head comparison the original authors did not include.
+---
+
+## Deliverables
+
+### 1. Proposal (1 page max)
+
+Due: **April 3 2026**
+
+A **short** document covering:
+- **Problem.** What are you working on and why is it interesting?
+- **Approach.** Which track? What will you implement or compare?
+- **Baselines.** What will you compare against?
+- **Data.** What benchmarks or datasets will you use?
+- **Timeline.** Rough plan for the remaining weeks.
+
+You don't have to have everything ready; just a solid-ish plan. Things can go wrong (it's okay!), just keep us updated if your plan changes. 
+
+Submit as a PDF on Gradescope.
+
+### 2. Final Submission
+
+Due: **May 18 2026**
+
+Two components:
+
+**Report (5 pages max, PDF).** Use any reasonable format (LaTeX preferred). The report should include:
+- **Introduction.** What problem are you solving and why?
+- **Background.** Brief summary of the relevant method(s) from class or the paper you are implementing.
+- **Method.** What did you build? Describe your implementation, any design choices, and any deviations from the original paper (if applicable).
+- **Experiments.** Compare your method to baselines. Include tables or plots of runtime, solution quality, or other relevant metrics. Describe your experimental setup (hardware, solver versions, instance sizes).
+- **Discussion.** What worked? What did not? What surprised you? Be honest.
+- **References.**
+
+**Code (GitHub link, optional but strongly encouraged).** If you implemented new algorithms or ran experiments:
+- Include a `README.md` explaining how to navigate the code and reproduce results.
+- Code should be clean enough for someone else to run.
+
+Submit the report on Gradescope. Include the GitHub link in the report.
 
 ---
 
@@ -181,43 +225,6 @@ Below are starting points organized by course topic. You are welcome to choose p
   Comprehensive survey of the entire ML+CO field. Covers learning to branch, learning to cut, end-to-end neural solvers, algorithm selection. Good starting point for finding a project in this space.
 
 ---
-
-## Deliverables
-
-### 1. Proposal (1 page max)
-
-Due: **April 3 2026**
-
-A **short** document covering:
-- **Problem.** What are you working on and why is it interesting?
-- **Approach.** Which track? What will you implement or compare?
-- **Baselines.** What will you compare against?
-- **Data.** What benchmarks or datasets will you use?
-- **Timeline.** Rough plan for the remaining weeks.
-
-You don't have to have everything ready; just a solid-ish plan. Things can go wrong (it's okay!), just keep us updated if your plan changes. 
-
-Submit as a PDF on Gradescope.
-
-### 2. Final Submission
-
-Due: **May 18 2026**
-
-Two components:
-
-**Report (5 pages max, PDF).** Use any reasonable format (LaTeX preferred). The report should include:
-- **Introduction.** What problem are you solving and why?
-- **Background.** Brief summary of the relevant method(s) from class or the paper you are implementing.
-- **Method.** What did you build? Describe your implementation, any design choices, and any deviations from the original paper (if applicable).
-- **Experiments.** Compare your method to baselines. Include tables or plots of runtime, solution quality, or other relevant metrics. Describe your experimental setup (hardware, solver versions, instance sizes).
-- **Discussion.** What worked? What did not? What surprised you? Be honest.
-- **References.**
-
-**Code (GitHub link, optional but strongly encouraged).** If you implemented new algorithms or ran experiments:
-- Include a `README.md` explaining how to navigate the code and reproduce results.
-- Code should be clean enough for someone else to run.
-
-Submit the report on Gradescope. Include the GitHub link in the report.
 
 ## Grading Rubric
 
