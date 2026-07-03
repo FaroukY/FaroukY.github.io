@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Farouk! I am a fifth year PhD student at the University of Illinois at Urbana Champaign in the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I am lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research interests span computational geometry, optimal stopping theory, scalable graph theory, and coding theory, with a focus on mixing theoretical insights with practical scalable algorithmic solutions. 
+Hi, my name is Farouk! I graduated with a PhD in theoretical computer science from the University of Illinois at Urbana Champaign, where I was a member of the [CS theory group](https://publish.illinois.edu/theory-cs/faculty/). I was lucky to be co-advised by [Sariel Har-Peled](https://sarielhp.org/) and [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research interests span computational geometry, optimal stopping theory, scalable graph theory, and coding theory, with a focus on mixing theoretical insights with practical scalable algorithmic solutions. 
 
 I did my undergrad in The Hong Kong University of Science and Technology where I was fortunate to work with [Mordecai Golin](https://www.cse.ust.hk/faculty/golin/) and [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/). 
 
 Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years. In Summer 2022, I interned at Google. In Summer 2025, I interned at Two Sigma as a Quantitative Researcher. 
-
-> I will be teaching CS498: Algorithmic Engineering in Spring 2026. 
-If you have any questions about the course, feel free to email me. 
-The course is still under active development, but you can track main topics [here](https://farouky.github.io/cs498ae/)
 
 
 ## Publications
@@ -47,6 +43,8 @@ The course is still under active development, but you can track main topics [her
 
 
 ## Teaching
+
+I created and taught [CS498: Algorithmic Engineering](https://farouky.github.io/cs498ae/) in Spring 2026. Feel free to email me if you have any questions about the course.
 
 I have TA'd the following courses:
 
