@@ -38,7 +38,7 @@ Prior to joining UIUC, I worked at Citadel as a Quantitative Trader for 2 years.
 | Name             | Year    | With |     Paper                                                         |
 | --------         | ------ | --------|  ------------------------------------------------------------ |
 | ReFill: Reinforcement Learning for Fill-In Minimization. | 2025 | Sharon Lam (aka my wife) | [paper](GE_Paper.pdf) |
-
+| How to Catch k Grid Points | 2026 | Sariel Har-Peled and Qizheng He | [paper](https://arxiv.org/abs/2607.10824) |
 
 
 
