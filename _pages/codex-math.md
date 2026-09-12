@@ -6,8 +6,6 @@ author_profile: false
 sitemap: true
 ---
 
-{% include toc %}
-
 _For mathematicians and TCS people who have never used an AI coding agent._
 
 _Author: Elfarouk Harb._
